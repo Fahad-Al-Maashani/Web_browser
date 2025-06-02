@@ -15,10 +15,9 @@ Ensure you have the necessary dependencies installed:
 
 ```bash
 pip install PyQt5 PyQtWebEngine
+## Running the Program
 
+To run the web browser application, execute the following command in your terminal:
 
-```bash 
-To run the program 
-'''bash 
+```bash
 python main.py
-
