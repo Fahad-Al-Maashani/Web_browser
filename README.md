@@ -20,6 +20,3 @@ Don't forget to install Pyqt5 lib as showing below
 
 ```bash
 pip install PyQt5 PyQtWebEngine
-
-
-
