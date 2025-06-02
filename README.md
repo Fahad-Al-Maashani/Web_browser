@@ -12,12 +12,14 @@ A simple web browser built using **PyQt5** and **PyQtWebEngine**. This browser i
 
 ## Requirements
 Ensure you have the necessary dependencies installed:
+To run the web browser application, execute the following command in your terminal:
+
+python main.py
+
+Don't forget to install Pyqt5 lib as showing below
 
 ```bash
 pip install PyQt5 PyQtWebEngine
 ## Running the Program
 
-To run the web browser application, execute the following command in your terminal:
 
-```bash
-python main.py
